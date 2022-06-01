@@ -4,7 +4,7 @@
 
 #include "zoo.h"
 
-zoo(string n,int cows,int lions){
+zoo::zoo(string n,int cows,int lions){
     name = n;
     int numbers_of_animals = cows+lions;
 
