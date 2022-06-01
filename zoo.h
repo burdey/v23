@@ -21,7 +21,7 @@ public:
     zoo(string n,int cows,int lions);
     string get_name();
     int get_number_of_animals();
-    animal** get_animal();
+    animal** get_animals();
 
 };
 
