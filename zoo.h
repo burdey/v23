@@ -20,7 +20,7 @@ private:
 public:
     zoo(string n,int cows,int lions);
     string get_name();
-    int get_numbers_of_animals();
+    int get_number_of_animals();
     animal** get_animal();
 
 };
